@@ -17,7 +17,7 @@ This repository contains the Figma-based UI/UX design for **Voxa**, a mobile app
 ### Figma Prototype
 The Voxa design is fully prototyped in Figma, allowing you to explore real-time navigation and user flows.  
 Click the **"Present"** button in Figma to experience the app as if it were live. 
-OR:
+OR
 [View Voxa Prototype on Figma](https://www.figma.com/proto/GxXPFlVmh02EU8u50alrn4/CFPN535-D4Y_-Project-Part-4?node-id=127-626&p=f&t=GHbONNDLsdFOuwrB-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=127%3A626&show-proto-sidebar=1)
 
 
