@@ -1,6 +1,6 @@
 ## Voxa – Translator Messaging App (UI Design Only)
 
-This repository contains the Figma-based UI/UX design for **Voxa**, a concept mobile app that helps users communicate across languages in real time.
+This repository contains the Figma-based UI/UX design for **Voxa**, a mobile app that helps users communicate across languages in real time.
 
 ### Key Features in the Design
 - 🔁 Real-time text & voice translation
